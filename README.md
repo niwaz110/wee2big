@@ -14,3 +14,4 @@ Every transsaction A to B of quantity C and value D in Time T  is  recorded  at 
 cryptocurrencies  are  primarily  used  for  exchanging  goods  and  services  online . they  are  used  outside the  normal  banking conventions  , but  the  banks do have  transaction records of  cryptocurrencies ,  so it  is  not  totally  anonymous.
  these  have  a tremendous  potential to  challenge  the existing  system  of currency  and  payments .
  The  market  capitalization  of  cryptocurrencies , till date  june  2017  is 100 billion  us $. that  is  almost  the  20 %  more  wealth  than  bil lgates  owns.
+phil zimmerman
